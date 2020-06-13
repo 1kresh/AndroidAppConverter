@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Сonverter</string>
+    <string name="selected_currency_from">Selected currency:</string>
+    <string name="selected_currency_to">Selected currency:</string>
+</resources>
